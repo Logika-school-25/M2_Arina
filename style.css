@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(194, 144, 221);
+} 
+
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+
+a {
+  text-decoration:var(aliceblue);
+  border: 2px  double rgb(53, 27, 27);
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(119, 88, 213);
+  color: aliceblue;
+  margin-left: 5px;
+}
+
+.decoration {
+  border-left: 8px double rgb(233, 89, 89);
+  padding-left: 15px;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline overline #ca6f6c;
+}
+
+.decoration_text{
+  /* text-align: center; */
+  color: blanchedalmond;
+  border: 2px dotted rgb(247, 134, 134);
+  padding: 5px;
+  border-radius: 5px;
+
+}
+
+nav {
+    text-align: center;
+}
+
+img {
+    width: 850px;
+    height: 550px;
+    margin: 25px;
+}
